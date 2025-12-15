@@ -1502,3 +1502,138 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-14.25.16:406][472]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2025.12.15-14.25.16:406][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.12.15-14.25.16:431][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.15-14.25.57:584][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.15-14.25.57:587][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.017
+[2025.12.15-14.25.57:587][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/Cylinder_031] ([1] browsable assets)...
+[2025.12.15-14.25.57:615][637]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_031.Cylinder_031]
+[2025.12.15-14.25.57:615][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/Cylinder_031]
+[2025.12.15-14.25.57:626][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Objets_Singuliers/Cylinder_031_Auto1
+[2025.12.15-14.25.57:626][637]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Cylinder_031_Auto14B739FD14B86F9FCDBB6E28BD68ED90C.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Meshes/Objets_Singuliers/Cylinder_031_Auto1.uasset'
+[2025.12.15-14.25.57:626][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MI/MI_Trimsheet] ([1] browsable assets)...
+[2025.12.15-14.25.57:633][637]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MM/MI/MI_Trimsheet.MI_Trimsheet]
+[2025.12.15-14.25.57:633][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/MI_Trimsheet]
+[2025.12.15-14.25.57:641][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM/MI/MI_Trimsheet_Auto1
+[2025.12.15-14.25.57:641][637]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_Trimsheet_Auto15A7607224CF72C41E524EF9E1806DB1C.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/MM/MI/MI_Trimsheet_Auto1.uasset'
+[2025.12.15-14.25.57:641][637]LogFileHelpers: Auto-saving content packages took 0.056
+[2025.12.15-14.26.19:200][195]LogShaderCompilers: Display: ================================================
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Total job queries 498, among them cache hits 48 (9.64%), DDC hits 377 (75.70%), Duplicates 65 (13.05%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Tracking 385 distinct input hashes that result in 271 distinct outputs (70.39%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: RAM used: 3,62 MiB of 3,20 GiB budget. Usage: 0.11%
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 1.59 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 1.70
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Shader code size: total 106,896 KiB, numShaders 8, average 13,361 KiB, min 5,883 KiB, max 20,023 KiB
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.70 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Average processing rate: 4.70 jobs/sec
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Total thread time: 6,416 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Total thread preprocess time: 8,171 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Percentage time preprocessing: 127.36%
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.235614
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.91 sec, max 1.03 sec, min 0.79 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 28.41% of total time (compiled    2 times, average 0.91 sec, max 1.03 sec, min 0.79 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 19.93% of total time (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.10% of total time (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.78% of total time (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.15% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: === Material stats ===
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Materials Translated:    145
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: Material Cache Hits: 27 (19%)
+[2025.12.15-14.26.19:201][195]LogShaderCompilers: Display: ================================================
+[2025.12.15-14.26.21:613][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.15-14.26.22:845][482]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2025.12.15-14.26.22:874][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.26.22:933][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/Objets_Singuliers/Cylinder_031] ([1] browsable assets)...
+[2025.12.15-14.26.22:933][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/Cylinder_031]
+[2025.12.15-14.26.22:944][482]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/Cylinder_031
+[2025.12.15-14.26.22:944][482]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Cylinder_031032AEC9747337214261FA780317F0C4E.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/Cylinder_031.uasset'
+[2025.12.15-14.26.22:945][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MM/MI/MI_Trimsheet] ([1] browsable assets)...
+[2025.12.15-14.26.22:945][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/MI_Trimsheet]
+[2025.12.15-14.26.22:946][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MI/MI_Trimsheet" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/MI_Trimsheet.uasset" SILENT=true
+[2025.12.15-14.26.22:953][482]LogSavePackage: Moving output files for package: /Game/MM/MI/MI_Trimsheet
+[2025.12.15-14.26.22:953][482]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_Trimsheet05840CBB47AE2529D229A49F1B45F7E4.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/MI_Trimsheet.uasset'
+[2025.12.15-14.26.22:961][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.249 ms (total: 727.084 ms)
+[2025.12.15-14.26.22:989][482]LogStall: Shutdown...
+[2025.12.15-14.26.22:989][482]LogStall: Shutdown complete.
+[2025.12.15-14.26.23:016][482]LogSlate: Window 'Projet3D_Enviro - Unreal Editor' being destroyed
+[2025.12.15-14.26.23:103][482]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.15-14.26.23:103][482]LogContentValidation: Enabled validators:
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.26.23:103][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.26.23:103][482]AssetCheck: /Game/Meshes/Objets_Singuliers/Cylinder_031 Validation de la ressource
+[2025.12.15-14.26.23:103][482]AssetCheck: /Game/MM/MI/MI_Trimsheet Validation de la ressource
+[2025.12.15-14.26.23:105][482]Cmd: QUIT_EDITOR
+[2025.12.15-14.26.23:105][482]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.15-14.26.23:105][482]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-14.26.23:108][483]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.15-14.26.23:109][483]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.15-14.26.23:109][483]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.15-14.26.23:109][483]LogWorld: UWorld::CleanupWorld for 3D_Enviro, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.26.23:109][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.26.23:116][483]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.15-14.26.23:116][483]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.15-14.26.23:116][483]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.15-14.26.23:143][483]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.26.23:143][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.26.23:143][483]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.26.23:143][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.26.23:143][483]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.15-14.26.23:144][483]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.15-14.26.23:148][483]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.15-14.26.23:149][483]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.15-14.26.23:149][483]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.15-14.26.23:149][483]LogAudio: Display: Audio Device unregistered from world '3D_Enviro'.
+[2025.12.15-14.26.23:149][483]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.15-14.26.23:149][483]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.15-14.26.23:151][483]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.15-14.26.23:160][483]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.15-14.26.23:160][483]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.15-14.26.23:160][483]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.12.15-14.26.23:163][483]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.15-14.26.23:164][483]LogExit: Preparing to exit.
+[2025.12.15-14.26.23:195][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.15-14.26.23:612][483]LogEditorDataStorage: Deinitializing
+[2025.12.15-14.26.23:652][483]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.15-14.26.23:660][483]LogExit: Editor shut down
+[2025.12.15-14.26.23:662][483]LogExit: Transaction tracking system shut down
+[2025.12.15-14.26.23:711][483]LogExit: Object subsystem successfully closed.
+[2025.12.15-14.26.23:728][483]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.15-14.26.23:758][483]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.15-14.26.23:797][483]LogMemoryProfiler: Shutdown
+[2025.12.15-14.26.23:797][483]LogNetworkingProfiler: Shutdown
+[2025.12.15-14.26.23:797][483]LoadingProfiler: Shutdown
+[2025.12.15-14.26.23:797][483]LogTimingProfiler: Shutdown
+[2025.12.15-14.26.23:797][483]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.15-14.26.23:797][483]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.15-14.26.24:041][483]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.15-14.26.24:045][483]RenderDocPlugin: plugin has been unloaded.
+[2025.12.15-14.26.24:604][483]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.15-14.26.24:636][483]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.15-14.26.24:636][483]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF7094577-4EC4-5BAC-D9AC-75BC8FB493E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7e30dd5246b55b4dd3c801bf612a3d9b%7Ce513995018d14453bd3a8d23dae04399%7C8f9e7aa3-485e-4c9d-8c32-6181d0ed527c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.15-14.26.24:638][483]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.15-14.26.24:639][483]LogXGEController: Cleaning working directory: C:/Users/n_latinaud/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.15-14.26.24:640][483]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.15-14.26.24:640][483]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.15-14.26.24:640][483]LogPakFile: Destroying PakPlatformFile
+[2025.12.15-14.26.25:242][483]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.15-14.26.25:278][483]LogExit: Exiting.
+[2025.12.15-14.26.25:297][483]Log file closed, 12/15/25 15:26:25
