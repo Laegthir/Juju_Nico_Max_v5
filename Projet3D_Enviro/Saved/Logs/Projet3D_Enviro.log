@@ -1172,3 +1172,59 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-10.21.46:249][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.132484
 [2025.12.15-10.21.46:251][ 15]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2025.12.15-10.21.46:251][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.132484, Update Interval: 307.879272
+[2025.12.15-10.23.36:484][ 78]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.15-10.26.23:341][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.12.15-10.26.24:838][578]LogSlate: Took 0.017375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.12.15-10.26.33:622][534]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-10.26.40:609][534]LogSlate: Window 'Nouveau niveau' being destroyed
+[2025.12.15-10.26.40:619][534]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-10.26.40:634][534]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-10.26.40:634][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-10.26.40:634][534]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.12.15-10.26.40:649][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-10.26.40:691][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.15-10.26.40:696][534]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.12.15-10.26.40:696][534]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2025.12.15-10.26.40:696][534]LogStaticMesh: Display: Génération de maillage statique SM_Template_Map_Floor (estimation de la mémoire requise : 0.159396 Mo)…
+[2025.12.15-10.26.40:698][534]LogStaticMesh: Built static mesh [0.00s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2025.12.15-10.26.40:705][534]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-10.26.40:716][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.15-10.26.40:718][534]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-10.26.40:718][534]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,108ms pour s'exécuter.
+[2025.12.15-10.26.40:818][535]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.15-10.26.54:854][750]LogSlate: Window 'Enregistrer le niveau sous' being destroyed
+[2025.12.15-10.26.54:911][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-10.26.54:930][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.15-10.26.54:943][750]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2025.12.15-10.26.54:943][750]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_EnviroFE164EB240E1CE032498CF89A4C72BAF.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2025.12.15-10.26.54:990][750]LogFileHelpers: Saving map '3D_Enviro' took 0.120
+[2025.12.15-10.26.54:990][750]Cmd: MAP LOAD FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-10.26.55:029][750]LogWorld: UWorld::CleanupWorld for 3D_Enviro, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-10.26.55:029][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-10.26.55:044][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-10.26.55:045][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.15-10.26.55:045][750]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-10.26.55:047][750]LogAudio: Display: Audio Device (ID: 1) registered with world '3D_Enviro'.
+[2025.12.15-10.26.55:047][750]LogChaosDD: Creating Chaos Debug Draw Scene for world 3D_Enviro
+[2025.12.15-10.26.55:056][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-10.26.55:071][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.15-10.26.55:074][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-10.26.55:074][750]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,038ms pour s'exécuter.
+[2025.12.15-10.26.55:112][750]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.26.55:112][750]LogContentValidation: Enabled validators:
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.26.55:112][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.26.55:112][750]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2025.12.15-10.26.55:140][750]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-10.26.55:147][751]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.15-10.26.55:262][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 313.165314
+[2025.12.15-10.26.55:422][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-10.26.55:422][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 313.280457, Update Interval: 347.553955
