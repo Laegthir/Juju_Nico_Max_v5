@@ -1369,3 +1369,136 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-14.15.57:540][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.15-14.15.57:540][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.15-14.15.57:540][ 96]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2025.12.15-14.17.09:860][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 356.174622
+[2025.12.15-14.17.10:865][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.17.10:865][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 356.844635, Update Interval: 344.836578
+[2025.12.15-14.22.25:765][ 24]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_003.Cylinder_003
+[2025.12.15-14.22.25:776][ 24]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.15-14.22.25:868][ 24]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-14.22.32:849][504]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-14.22.32:851][504]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_009.Cylinder_009
+[2025.12.15-14.22.32:859][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.15-14.22.45:438][490]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.490 Y=-1.648 Z=0.684, BoxExtent=(X=77.072 Y=876.810 Z=254.303), SphereRadius=(1064.180786)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=-0.000, BoxExtent=(X=72.992 Y=873.780 Z=253.619), SphereRadius=(909.857360)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_003.Cylinder_003
+[2025.12.15-14.22.50:486][808]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.490 Y=-1.648 Z=0.684, BoxExtent=(X=77.072 Y=876.810 Z=254.303), SphereRadius=(1064.180786)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=-0.000, BoxExtent=(X=72.992 Y=873.780 Z=253.619), SphereRadius=(909.857360)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_003.Cylinder_003
+[2025.12.15-14.22.58:160][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 704.473267
+[2025.12.15-14.22.58:269][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.22.58:269][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 704.573120, Update Interval: 333.007599
+[2025.12.15-14.23.10:098][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.23.10:153][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/Cylinder_003] ([1] browsable assets)...
+[2025.12.15-14.23.10:181][295]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_003.Cylinder_003]
+[2025.12.15-14.23.10:181][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/Cylinder_003]
+[2025.12.15-14.23.10:193][295]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/Cylinder_003
+[2025.12.15-14.23.10:193][295]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Cylinder_003BC38EEB34A66DD35F1425581704A233D.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/Cylinder_003.uasset'
+[2025.12.15-14.23.10:203][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.173 ms (total: 267.562 ms)
+[2025.12.15-14.23.10:249][295]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.23.10:249][295]LogContentValidation: Enabled validators:
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.23.10:249][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.23.10:249][295]AssetCheck: /Game/Meshes/Objets_Singuliers/Cylinder_003 Validation de la ressource
+[2025.12.15-14.23.10:267][295]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-14.23.25:931][644]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/Cylinder_031.Cylinder_031
+[2025.12.15-14.23.25:936][644]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.15-14.23.45:965][437]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/port_cyterne.port_cyterne
+[2025.12.15-14.23.45:971][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.15-14.24.10:962][533]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-3.919 Y=-0.791 Z=-3.267, BoxExtent=(X=182.064 Y=182.069 Z=274.088), SphereRadius=(431.429321)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.000 Z=0.000, BoxExtent=(X=175.699 Y=175.699 Z=270.593), SphereRadius=(302.828334)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/port_cyterne.port_cyterne
+[2025.12.15-14.24.13:494][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.24.13:559][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/port_cyterne] ([1] browsable assets)...
+[2025.12.15-14.24.13:587][678]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/port_cyterne.port_cyterne]
+[2025.12.15-14.24.13:587][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/port_cyterne]
+[2025.12.15-14.24.13:601][678]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/port_cyterne
+[2025.12.15-14.24.13:603][678]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/port_cyterneA6AFB0E24B2CBB802FBE3EA4010F991A.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/port_cyterne.uasset'
+[2025.12.15-14.24.13:612][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.786 ms (total: 385.348 ms)
+[2025.12.15-14.24.13:665][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.24.13:665][678]LogContentValidation: Enabled validators:
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.24.13:665][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.24.13:665][678]AssetCheck: /Game/Meshes/Objets_Singuliers/port_cyterne Validation de la ressource
+[2025.12.15-14.24.13:686][678]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-14.24.32:935][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.24.32:968][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/Objets_Singuliers/port_cyterne] ([1] browsable assets)...
+[2025.12.15-14.24.32:968][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/port_cyterne]
+[2025.12.15-14.24.32:980][313]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/port_cyterne
+[2025.12.15-14.24.32:981][313]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/port_cyterneCF554EC445A295D7D699DFA7059EE51A.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/port_cyterne.uasset'
+[2025.12.15-14.24.32:989][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.054 ms (total: 439.402 ms)
+[2025.12.15-14.24.33:051][313]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.24.33:051][313]LogContentValidation: Enabled validators:
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.24.33:051][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.24.33:051][313]AssetCheck: /Game/Meshes/Objets_Singuliers/port_cyterne Validation de la ressource
+[2025.12.15-14.24.35:617][499]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/cyterne_2.cyterne_2
+[2025.12.15-14.24.35:626][499]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.15-14.24.40:246][800]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.427 Y=8.013 Z=-7.447, BoxExtent=(X=153.007 Y=146.671 Z=255.637), SphereRadius=(381.810059)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=137.133 Y=133.613 Z=246.429), SphereRadius=(282.017364)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/cyterne_2.cyterne_2
+[2025.12.15-14.24.41:528][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.24.41:590][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/cyterne_2] ([1] browsable assets)...
+[2025.12.15-14.24.41:620][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/cyterne_2.cyterne_2]
+[2025.12.15-14.24.41:620][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/cyterne_2]
+[2025.12.15-14.24.41:633][896]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/cyterne_2
+[2025.12.15-14.24.41:633][896]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/cyterne_29ED7E8A34B00F82E259BCEAD43EE2106.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/cyterne_2.uasset'
+[2025.12.15-14.24.41:642][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.721 ms (total: 552.123 ms)
+[2025.12.15-14.24.41:710][896]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.24.41:710][896]LogContentValidation: Enabled validators:
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.24.41:710][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.24.41:710][896]AssetCheck: /Game/Meshes/Objets_Singuliers/cyterne_2 Validation de la ressource
+[2025.12.15-14.24.41:729][896]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-14.24.47:798][285]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/cyterne.cyterne
+[2025.12.15-14.24.47:804][285]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.15-14.25.01:135][322]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-3.508 Y=-2.107 Z=0.290, BoxExtent=(X=129.958 Y=127.304 Z=204.034), SphereRadius=(291.830017)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=-0.000, BoxExtent=(X=118.522 Y=118.246 Z=203.744), SphereRadius=(227.201172)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/cyterne.cyterne
+[2025.12.15-14.25.07:245][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.25.07:283][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/cyterne] ([1] browsable assets)...
+[2025.12.15-14.25.07:313][805]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/cyterne.cyterne]
+[2025.12.15-14.25.07:313][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/cyterne]
+[2025.12.15-14.25.07:324][805]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/cyterne
+[2025.12.15-14.25.07:325][805]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/cyterneE14177E844AE8DE255C8C18386AC4107.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/cyterne.uasset'
+[2025.12.15-14.25.07:334][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.711 ms (total: 640.834 ms)
+[2025.12.15-14.25.07:385][805]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.25.07:385][805]LogContentValidation: Enabled validators:
+[2025.12.15-14.25.07:385][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.25.07:386][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.25.07:386][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.25.07:386][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.25.07:386][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.25.07:386][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.25.07:386][805]AssetCheck: /Game/Meshes/Objets_Singuliers/cyterne Validation de la ressource
+[2025.12.15-14.25.07:404][805]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.15-14.25.08:410][891]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.08:410][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.08:520][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.15-14.25.08:931][926]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.08:931][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.08:959][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.15-14.25.09:264][948]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.09:264][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.09:290][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.15-14.25.10:607][ 34]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.10:607][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.10:630][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.15-14.25.11:094][ 77]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.11:094][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.11:118][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.15-14.25.11:636][133]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.11:636][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.11:658][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.15-14.25.14:563][472]LogSlate: Window 'MI_Trimsheet' being destroyed
+[2025.12.15-14.25.14:573][472]LogSlate: Window 'MI_Trimsheet' being destroyed
+[2025.12.15-14.25.14:585][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.15-14.25.16:388][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.12.15-14.25.16:406][472]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.25.16:406][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.25.16:431][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
