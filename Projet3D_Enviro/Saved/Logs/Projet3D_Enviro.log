@@ -2337,3 +2337,127 @@ Sampler Limit: 32
 [2025.12.15-10.46.45:944][497]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
 [2025.12.15-10.46.45:944][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.12.15-10.46.45:980][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.15-10.47.40:851][811]Cmd: TRANSACTION UNDO
+[2025.12.15-10.47.40:851][811]LogEditorTransaction: Undo StaticMesh : matériau modifié
+[2025.12.15-10.47.40:865][811]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=12.195 Y=4.202 Z=-6.216, BoxExtent=(X=108.319 Y=105.071 Z=311.994), SphereRadius=(393.930054)) and MeshDescription Bounds (Origin=X=12.853 Y=0.623 Z=-9.203, BoxExtent=(X=107.003 Y=94.431 Z=305.860), SphereRadius=(324.036404)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle.Tuyau_Enflé_Manivelle
+[2025.12.15-10.47.41:049][814]Cmd: TRANSACTION UNDO
+[2025.12.15-10.47.41:049][814]LogEditorTransaction: Undo StaticMesh : matériau modifié
+[2025.12.15-10.47.41:056][814]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.335 Y=1.304 Z=10.703, BoxExtent=(X=100.523 Y=106.973 Z=307.186), SphereRadius=(396.820648)) and MeshDescription Bounds (Origin=X=0.000 Y=0.022 Z=9.450, BoxExtent=(X=94.431 Y=94.431 Z=305.859), SphereRadius=(320.105044)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé.Tuyau_Enflé
+[2025.12.15-10.47.41:238][817]Cmd: TRANSACTION UNDO
+[2025.12.15-10.47.41:238][817]LogEditorTransaction: Undo StaticMesh : matériau modifié
+[2025.12.15-10.47.41:246][817]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=3.466 Y=-31.596 Z=28.306, BoxExtent=(X=103.343 Y=132.583 Z=142.180), SphereRadius=(234.032623)) and MeshDescription Bounds (Origin=X=-0.054 Y=-27.844 Z=26.976, BoxExtent=(X=93.869 Y=128.013 Z=140.807), SphereRadius=(190.299962)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Courbé.Tuyau_Courbé
+[2025.12.15-10.47.46:118][330]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Courbé.Tuyau_Courbé
+[2025.12.15-10.47.46:202][330]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.12.15-10.47.51:640][818]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=3.466 Y=-31.596 Z=28.306, BoxExtent=(X=103.343 Y=132.583 Z=142.180), SphereRadius=(234.032623)) and MeshDescription Bounds (Origin=X=-0.054 Y=-27.844 Z=26.976, BoxExtent=(X=93.869 Y=128.013 Z=140.807), SphereRadius=(190.299962)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Courbé.Tuyau_Courbé
+[2025.12.15-10.47.53:398][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-10.47.53:466][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Tuyaux/Tuyau_Courbé] ([1] browsable assets)...
+[2025.12.15-10.47.53:493][955]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Tuyaux/Tuyau_Courbé.Tuyau_Courbé]
+[2025.12.15-10.47.53:493][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Tuyaux/Tuyau_Courbé]
+[2025.12.15-10.47.53:504][955]LogSavePackage: Moving output files for package: /Game/Meshes/Tuyaux/Tuyau_Courbé
+[2025.12.15-10.47.53:504][955]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Tuyau_CourbéE2854D8847C583936BE33A8ADABD100E.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Tuyaux/Tuyau_Courbé.uasset'
+[2025.12.15-10.47.53:512][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.964 ms (total: 3.52 sec)
+[2025.12.15-10.47.53:576][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.47.53:576][955]LogContentValidation: Enabled validators:
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.47.53:576][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.47.53:578][955]AssetCheck: /Game/Meshes/Tuyaux/Tuyau_Courbé Validation de la ressource
+[2025.12.15-10.47.54:513][ 45]LogSlate: Window 'Tuyau_Courbé' being destroyed
+[2025.12.15-10.47.54:523][ 45]LogSlate: Window 'Tuyau_Courbé' being destroyed
+[2025.12.15-10.47.54:552][ 45]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-10.47.54:552][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-10.47.54:586][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.15-10.47.56:070][193]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé.Tuyau_Enflé
+[2025.12.15-10.47.56:152][193]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.12.15-10.48.00:424][571]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.335 Y=1.304 Z=10.703, BoxExtent=(X=100.523 Y=106.973 Z=307.186), SphereRadius=(396.820648)) and MeshDescription Bounds (Origin=X=0.000 Y=0.022 Z=9.450, BoxExtent=(X=94.431 Y=94.431 Z=305.859), SphereRadius=(320.105044)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé.Tuyau_Enflé
+[2025.12.15-10.48.01:678][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-10.48.01:706][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Tuyaux/Tuyau_Enflé] ([1] browsable assets)...
+[2025.12.15-10.48.01:734][674]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé.Tuyau_Enflé]
+[2025.12.15-10.48.01:734][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Tuyaux/Tuyau_Enflé]
+[2025.12.15-10.48.01:734][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tuyaux/Tuyau_Enflé" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Tuyaux/Tuyau_Enflé.uasset" SILENT=true
+[2025.12.15-10.48.01:745][674]LogSavePackage: Moving output files for package: /Game/Meshes/Tuyaux/Tuyau_Enflé
+[2025.12.15-10.48.01:745][674]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Tuyau_Enflé30A8BBDC451922C3B511138467B4CA21.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Tuyaux/Tuyau_Enflé.uasset'
+[2025.12.15-10.48.01:754][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.358 ms (total: 3.60 sec)
+[2025.12.15-10.48.01:810][674]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.48.01:810][674]LogContentValidation: Enabled validators:
+[2025.12.15-10.48.01:810][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.48.01:810][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.48.01:810][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.48.01:810][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.48.01:810][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.48.01:811][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.48.01:811][674]AssetCheck: /Game/Meshes/Tuyaux/Tuyau_Enflé Validation de la ressource
+[2025.12.15-10.48.02:599][748]LogSlate: Window 'Tuyau_Enflé' being destroyed
+[2025.12.15-10.48.02:607][748]LogSlate: Window 'Tuyau_Enflé' being destroyed
+[2025.12.15-10.48.02:637][748]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-10.48.02:637][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-10.48.02:670][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.15-10.48.04:222][901]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle.Tuyau_Enflé_Manivelle
+[2025.12.15-10.48.04:300][901]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.12.15-10.48.08:705][247]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=12.195 Y=4.202 Z=-6.216, BoxExtent=(X=108.319 Y=105.071 Z=311.994), SphereRadius=(393.930054)) and MeshDescription Bounds (Origin=X=12.853 Y=0.623 Z=-9.203, BoxExtent=(X=107.003 Y=94.431 Z=305.860), SphereRadius=(324.036404)) is significative for StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle.Tuyau_Enflé_Manivelle
+[2025.12.15-10.48.09:890][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-10.48.09:944][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle] ([1] browsable assets)...
+[2025.12.15-10.48.09:972][339]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle.Tuyau_Enflé_Manivelle]
+[2025.12.15-10.48.09:972][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle]
+[2025.12.15-10.48.09:983][339]LogSavePackage: Moving output files for package: /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle
+[2025.12.15-10.48.09:983][339]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Tuyau_Enflé_ManivelleF5B22CCD4FC1F139EFA9248E1A0F400F.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Tuyaux/Tuyau_Enflé_Manivelle.uasset'
+[2025.12.15-10.48.09:989][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.067 ms (total: 3.70 sec)
+[2025.12.15-10.48.10:036][339]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.48.10:036][339]LogContentValidation: Enabled validators:
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.48.10:036][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.48.10:036][339]AssetCheck: /Game/Meshes/Tuyaux/Tuyau_Enflé_Manivelle Validation de la ressource
+[2025.12.15-10.48.10:816][415]LogSlate: Window 'Tuyau_Enflé_Manivelle' being destroyed
+[2025.12.15-10.48.10:825][415]LogSlate: Window 'Tuyau_Enflé_Manivelle' being destroyed
+[2025.12.15-10.48.10:854][415]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-10.48.10:854][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-10.48.10:887][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.15-10.48.29:213][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar
+[2025.12.15-10.48.29:213][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar
+[2025.12.15-10.48.29:214][379]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar as actor: StaticMeshActor /Game/3D_Enviro.3D_Enviro:PersistentLevel.StaticMeshActor_15
+[2025.12.15-10.48.29:938][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.15-10.48.29:942][454]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.12.15-10.48.29:947][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar
+[2025.12.15-10.48.29:947][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar
+[2025.12.15-10.48.29:948][454]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Objets_Singuliers/Radar.Radar as actor: StaticMeshActor /Game/3D_Enviro.3D_Enviro:PersistentLevel.StaticMeshActor_16
+[2025.12.15-10.48.46:883][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-10.48.46:944][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-10.48.46:962][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.15-10.48.46:979][367]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2025.12.15-10.48.46:980][367]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_EnviroFDBB7A1D4BF449D2CFDD1EAC19990B3E.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2025.12.15-10.48.46:985][367]LogFileHelpers: Saving map '3D_Enviro' took 0.041
+[2025.12.15-10.48.46:999][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.272 ms (total: 3.82 sec)
+[2025.12.15-10.48.47:064][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.48.47:064][367]LogContentValidation: Enabled validators:
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.48.47:064][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.48.47:064][367]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2025.12.15-10.48.58:083][519]Cmd: TRANSACTION UNDO
+[2025.12.15-10.48.58:083][519]LogEditorTransaction: Undo Clic sur les éléments
+[2025.12.15-10.49.16:249][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-10.49.16:307][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-10.49.16:326][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.15-10.49.16:344][506]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2025.12.15-10.49.16:344][506]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_EnviroCE02662A48E7B0F67E21B0B683FC358D.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2025.12.15-10.49.16:350][506]LogFileHelpers: Saving map '3D_Enviro' took 0.044
+[2025.12.15-10.49.16:362][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.580 ms (total: 3.93 sec)
+[2025.12.15-10.49.16:432][506]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-10.49.16:432][506]LogContentValidation: Enabled validators:
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-10.49.16:432][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-10.49.16:432][506]AssetCheck: /Game/3D_Enviro Validation de la ressource
