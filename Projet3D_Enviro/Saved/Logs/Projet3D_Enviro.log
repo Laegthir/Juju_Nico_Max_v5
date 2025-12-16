@@ -2906,3 +2906,1183 @@ Sampler Limit: 32
 [2025.12.16-11.42.18:872][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.16-11.42.18:872][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.16-11.42.18:872][458]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-11.45.39:782][219]LogInterchangeEngine: [En attente] Importation
+[2025.12.16-11.45.39:782][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_BaseColor.tga]
+[2025.12.16-11.45.39:784][219]LogInterchangeEngine: [En attente] Importation -  (2)
+[2025.12.16-11.45.39:784][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_Emissive.tga]
+[2025.12.16-11.45.39:784][219]LogInterchangeEngine: [En attente] Importation -  (3)
+[2025.12.16-11.45.39:784][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_Normal.tga]
+[2025.12.16-11.45.39:785][219]LogInterchangeEngine: [En attente] Importation -  (4)
+[2025.12.16-11.45.39:785][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.tga]
+[2025.12.16-11.45.40:026][222]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_Emissive.tga]
+[2025.12.16-11.45.40:026][222]LogInterchangeEngine: [En attente] Importation -  (3)
+[2025.12.16-11.45.40:027][222]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_Normal.tga]
+[2025.12.16-11.45.40:027][222]LogInterchangeEngine: [En attente] Importation -  (2)
+[2025.12.16-11.45.40:029][222]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.tga]
+[2025.12.16-11.45.40:029][222]LogInterchangeEngine: [En attente] Importation -  (1)
+[2025.12.16-11.45.40:030][223]LogTexture: Display: Génération des textures : /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.Porte_Modular_Material_BaseColor (TFO_AutoDXT, 2048X2048 X1X1X1) (Estimation de la mémoire requise : 351.083323 MB), Vitesse d'encodage : Fast
+[2025.12.16-11.45.40:156][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_BaseColor.tga]
+[2025.12.16-11.45.40:156][224]LogInterchangeEngine: [En attente] Importation - Operation completed.
+[2025.12.16-11.45.40:156][224]LogInterchangeEngine: [Réussite] Importation effectuée
+[2025.12.16-11.46.48:967][395]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-11.47.35:212][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7353.773438
+[2025.12.16-11.47.35:319][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-11.47.35:319][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7353.872559, Update Interval: 319.799805
+[2025.12.16-11.48.54:926][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.16-11.48.54:931][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.019
+[2025.12.16-11.48.54:931][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor] ([1] browsable assets)...
+[2025.12.16-11.48.54:934][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.Porte_Modular_Material_BaseColor]
+[2025.12.16-11.48.54:934][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor]
+[2025.12.16-11.48.54:953][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto7
+[2025.12.16-11.48.54:953][443]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_BaseColorC129ADCB4771A3EA973115BE2F04CF35.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto7.uasset'
+[2025.12.16-11.48.54:953][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive] ([1] browsable assets)...
+[2025.12.16-11.48.54:955][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive.Porte_Modular_Material_Emissive]
+[2025.12.16-11.48.54:955][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive]
+[2025.12.16-11.48.54:971][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto7
+[2025.12.16-11.48.54:972][443]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Emissive_E6E669E148F5B5A1DB420EAB4CB73015.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto7.uasset'
+[2025.12.16-11.48.54:972][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal] ([1] browsable assets)...
+[2025.12.16-11.48.54:974][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal.Porte_Modular_Material_Normal]
+[2025.12.16-11.48.54:974][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal]
+[2025.12.16-11.48.54:991][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto7
+[2025.12.16-11.48.54:991][443]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Normal_Au2B519A854255EBC30D89FA9CEFABB9C4.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto7.uasset'
+[2025.12.16-11.48.54:992][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-11.48.54:993][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-11.48.54:993][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-11.48.55:010][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto7
+[2025.12.16-11.48.55:010][443]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Occlusion1636CC9446362DF4A03FE5A674970C1E.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto7.uasset'
+[2025.12.16-11.48.55:010][443]LogFileHelpers: Auto-saving content packages took 0.079
+[2025.12.16-11.53.33:578][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7712.184570
+[2025.12.16-11.53.33:693][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-11.53.33:693][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7712.292480, Update Interval: 319.669800
+[2025.12.16-11.59.46:551][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8085.187012
+[2025.12.16-11.59.46:676][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-11.59.46:676][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8085.304199, Update Interval: 354.735565
+[2025.12.16-12.06.28:654][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8487.637695
+[2025.12.16-12.06.28:788][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.06.28:788][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8487.763672, Update Interval: 308.564117
+[2025.12.16-12.07.51:325][ 59]Cmd: TRANSACTION UNDO
+[2025.12.16-12.07.51:325][ 59]LogEditorTransaction: Undo Déplacer les éléments
+[2025.12.16-12.07.53:009][204]Cmd: TRANSACTION UNDO
+[2025.12.16-12.07.53:009][204]LogEditorTransaction: Undo Déplacer les éléments
+[2025.12.16-12.07.58:567][834]Cmd: MODE GRID=0
+[2025.12.16-12.08.11:542][323]Cmd: TRANSACTION UNDO
+[2025.12.16-12.08.11:542][323]LogEditorTransaction: Undo Déplacer les éléments
+[2025.12.16-12.10.15:163][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.16-12.10.15:183][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Enviro_Auto8
+[2025.12.16-12.10.15:183][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_Enviro_Auto88FD243E444D41F6F42BF4DA8325E54C9.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/3D_Enviro_Auto8.umap'
+[2025.12.16-12.10.15:193][648]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.045
+[2025.12.16-12.10.15:193][648]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.12.16-12.10.15:193][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor] ([1] browsable assets)...
+[2025.12.16-12.10.15:193][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor]
+[2025.12.16-12.10.15:210][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor_Auto8
+[2025.12.16-12.10.15:210][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G5744B184484C896B9428169A10C38245.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor_Auto8.uasset'
+[2025.12.16-12.10.15:211][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive] ([1] browsable assets)...
+[2025.12.16-12.10.15:211][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive]
+[2025.12.16-12.10.15:227][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive_Auto8
+[2025.12.16-12.10.15:227][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G7C4B2C7B4BEBC3235372E5B421D620D5.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive_Auto8.uasset'
+[2025.12.16-12.10.15:228][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal] ([1] browsable assets)...
+[2025.12.16-12.10.15:228][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal]
+[2025.12.16-12.10.15:243][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal_Auto8
+[2025.12.16-12.10.15:243][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G356E96934BD1D212CC70A39840A1AD3F.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal_Auto8.uasset'
+[2025.12.16-12.10.15:244][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-12.10.15:244][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic]
+[2025.12.16-12.10.15:261][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic_Auto8
+[2025.12.16-12.10.15:261][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_GBDB3E77545318CBDD9BB659BA58ED445.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic_Auto8.uasset'
+[2025.12.16-12.10.15:262][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor] ([1] browsable assets)...
+[2025.12.16-12.10.15:262][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor]
+[2025.12.16-12.10.15:278][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto8
+[2025.12.16-12.10.15:278][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_BaseColor5C76A93C4DD0A14CBFA307922C8823A0.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto8.uasset'
+[2025.12.16-12.10.15:279][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive] ([1] browsable assets)...
+[2025.12.16-12.10.15:280][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive]
+[2025.12.16-12.10.15:297][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto8
+[2025.12.16-12.10.15:297][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Emissive_5679E3C74E53325AD92D9AB72B0A2185.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto8.uasset'
+[2025.12.16-12.10.15:297][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal] ([1] browsable assets)...
+[2025.12.16-12.10.15:297][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal]
+[2025.12.16-12.10.15:313][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto8
+[2025.12.16-12.10.15:313][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Normal_AuE69212064337106ADF1853901E7AE600.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto8.uasset'
+[2025.12.16-12.10.15:314][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-12.10.15:314][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-12.10.15:330][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto8
+[2025.12.16-12.10.15:330][648]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Occlusion67FC9DF54E00CC2F78A4A8B451CC6DF9.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto8.uasset'
+[2025.12.16-12.10.15:331][648]LogFileHelpers: Auto-saving content packages took 0.137
+[2025.12.16-12.12.29:056][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8848.997070
+[2025.12.16-12.12.29:190][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.12.29:190][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8849.122070, Update Interval: 346.290466
+[2025.12.16-12.19.10:950][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9252.408203
+[2025.12.16-12.19.11:083][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.19.11:083][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9252.534180, Update Interval: 345.933411
+[2025.12.16-12.25.44:653][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9647.584961
+[2025.12.16-12.25.44:786][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.25.44:786][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9647.710938, Update Interval: 351.578735
+[2025.12.16-12.32.27:708][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10052.100586
+[2025.12.16-12.32.27:832][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.32.27:832][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10052.217773, Update Interval: 311.634888
+[2025.12.16-12.38.30:103][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10415.760742
+[2025.12.16-12.38.30:220][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.38.30:220][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10415.869141, Update Interval: 301.891541
+[2025.12.16-12.44.25:322][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10772.284180
+[2025.12.16-12.44.25:439][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.44.25:439][636]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10772.392578, Update Interval: 300.314941
+[2025.12.16-12.46.48:984][861]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-12.50.22:610][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11130.898438
+[2025.12.16-12.50.22:743][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.50.22:743][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11131.022461, Update Interval: 326.291077
+[2025.12.16-12.56.25:854][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11495.490234
+[2025.12.16-12.56.25:963][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-12.56.25:963][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11495.589844, Update Interval: 308.728912
+[2025.12.16-13.02.06:971][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11837.959961
+[2025.12.16-13.02.07:089][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.02.07:090][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11838.068359, Update Interval: 352.501587
+[2025.12.16-13.08.32:729][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12225.205078
+[2025.12.16-13.08.32:854][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.08.32:855][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12225.321289, Update Interval: 318.803680
+[2025.12.16-13.14.41:774][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12595.432617
+[2025.12.16-13.14.41:916][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.14.41:917][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12595.566406, Update Interval: 329.486389
+[2025.12.16-13.21.03:879][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12979.092773
+[2025.12.16-13.21.04:004][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.21.04:004][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12979.210938, Update Interval: 335.820190
+[2025.12.16-13.27.15:523][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13352.000977
+[2025.12.16-13.27.15:664][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.27.15:664][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13352.132812, Update Interval: 346.083557
+[2025.12.16-13.33.47:697][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13745.541016
+[2025.12.16-13.33.47:816][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.33.47:816][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13745.650391, Update Interval: 331.086761
+[2025.12.16-13.40.16:190][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14135.323242
+[2025.12.16-13.40.16:323][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.40.16:323][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14135.447266, Update Interval: 310.060120
+[2025.12.16-13.46.06:675][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14487.068359
+[2025.12.16-13.46.06:799][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.46.06:799][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14487.187500, Update Interval: 308.478027
+[2025.12.16-13.46.48:999][811]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-13.52.01:511][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14843.227539
+[2025.12.16-13.52.01:620][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.52.01:620][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14843.327148, Update Interval: 321.984314
+[2025.12.16-13.58.20:902][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15222.860352
+[2025.12.16-13.58.21:904][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-13.58.21:904][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15223.528320, Update Interval: 324.220093
+[2025.12.16-14.04.20:971][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15582.941406
+[2025.12.16-14.04.21:972][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.04.21:972][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15583.609375, Update Interval: 328.254028
+[2025.12.16-14.10.30:036][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15952.009766
+[2025.12.16-14.10.31:030][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.10.31:030][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15952.675781, Update Interval: 319.288910
+[2025.12.16-14.16.26:426][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16308.411133
+[2025.12.16-14.16.27:428][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.16.27:428][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16309.077148, Update Interval: 307.714478
+[2025.12.16-14.22.13:816][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16655.789062
+[2025.12.16-14.22.14:813][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.22.14:813][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16656.457031, Update Interval: 313.804749
+[2025.12.16-14.28.19:883][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17021.863281
+[2025.12.16-14.28.20:886][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.28.20:886][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17022.529297, Update Interval: 356.182129
+[2025.12.16-14.35.09:284][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17431.265625
+[2025.12.16-14.35.10:284][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.35.10:285][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17431.933594, Update Interval: 342.785736
+[2025.12.16-14.41.46:342][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17828.318359
+[2025.12.16-14.41.47:343][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.41.47:343][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17828.984375, Update Interval: 303.261200
+[2025.12.16-14.46.49:022][198]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-14.47.46:398][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18188.363281
+[2025.12.16-14.47.47:395][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.47.47:395][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18189.025391, Update Interval: 322.654510
+[2025.12.16-14.53.48:798][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18550.796875
+[2025.12.16-14.53.49:795][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.53.49:795][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18551.462891, Update Interval: 325.888245
+[2025.12.16-14.59.55:853][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18917.830078
+[2025.12.16-14.59.56:850][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-14.59.56:850][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18918.498047, Update Interval: 307.857300
+[2025.12.16-15.06.04:008][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19285.904297
+[2025.12.16-15.06.04:159][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.06.04:159][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19286.035156, Update Interval: 332.872101
+[2025.12.16-15.06.37:154][267]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.06.37:154][267]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.06.37:154][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.06.37:154][267]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.06.37:154][267]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Shader Count: 5
+[2025.12.16-15.06.37:305][268]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.06.39:995][521]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.06.41:356][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.16-15.06.41:556][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.16-15.06.41:564][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.06.41:623][521]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.06.41:665][521]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MM/MM_Porte.MM_Porte]
+[2025.12.16-15.06.41:665][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.06.41:665][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.06.41:676][521]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.06.41:676][521]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte770CFAD0422044BAC57FE28C4575BC8F.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.06.41:682][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.539 ms (total: 2.13 sec)
+[2025.12.16-15.06.41:734][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.06.41:734][521]LogContentValidation: Enabled validators:
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.06.41:734][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.06.41:734][521]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.06.59:128][ 90]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.Porte_Modular_Material_BaseColor
+[2025.12.16-15.06.59:484][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.06.59:484][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.06.59:484][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.06.59:484][ 90]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.06.59:484][ 90]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.26:905][574]LogInterchangeEngine: [En attente] Importation
+[2025.12.16-15.08.26:905][574]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_BaseColor.tga]
+[2025.12.16-15.08.26:906][574]LogInterchangeEngine: [En attente] Importation -  (2)
+[2025.12.16-15.08.26:906][574]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_Emissive.tga]
+[2025.12.16-15.08.26:907][574]LogInterchangeEngine: [En attente] Importation -  (3)
+[2025.12.16-15.08.26:907][574]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_Normal.tga]
+[2025.12.16-15.08.26:907][574]LogInterchangeEngine: [En attente] Importation -  (4)
+[2025.12.16-15.08.26:907][574]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/n_latinaud/Documents/Latinaud Nicolas M1JV/Export_Susbtance/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.tga]
+[2025.12.16-15.08.27:145][577]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_Emissive.tga]
+[2025.12.16-15.08.27:146][577]LogInterchangeEngine: [En attente] Importation -  (3)
+[2025.12.16-15.08.27:147][577]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_Normal.tga]
+[2025.12.16-15.08.27:147][577]LogInterchangeEngine: [En attente] Importation -  (2)
+[2025.12.16-15.08.27:147][577]LogTexture: Display: Génération des textures : /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.Porte_Modular_Material_BaseColor (TFO_AutoDXT, 2048X2048 X1X1X1) (Estimation de la mémoire requise : 351.083323 MB), Vitesse d'encodage : Final
+[2025.12.16-15.08.27:149][577]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.tga]
+[2025.12.16-15.08.27:149][577]LogInterchangeEngine: [En attente] Importation -  (1)
+[2025.12.16-15.08.27:280][579]LogInterchangeEngine: Display: Interchange import completed [C:/Users/n_latinaud/...btance/Porte_Modular/Porte_Modular_Material_BaseColor.tga]
+[2025.12.16-15.08.27:280][579]LogInterchangeEngine: [En attente] Importation - Operation completed.
+[2025.12.16-15.08.27:280][579]LogInterchangeEngine: [Réussite] Importation effectuée
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: Shader Count: 7
+[2025.12.16-15.08.45:351][440]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.08.45:448][446]MaterialEditorStats: Shader Count: 8
+[2025.12.16-15.08.45:449][446]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.46:877][559]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.08.46:990][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.16-15.08.48:028][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.16-15.08.48:038][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.08.48:081][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.08.48:124][559]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MM/MM_Porte.MM_Porte]
+[2025.12.16-15.08.48:124][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.08.48:124][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.08.48:134][559]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.08.48:134][559]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte3B71C1E94DCF53A0D3D8F3BB271B02B9.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.08.48:142][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.049 ms (total: 2.24 sec)
+[2025.12.16-15.08.48:181][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.08.48:181][559]LogContentValidation: Enabled validators:
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.08.48:181][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.08.48:181][559]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.08.54:278][ 96]LogMaterial: Display: Material /Game/MM/MM_Porte.MM_Porte needed to have new flag set bUsedWithNanite !
+[2025.12.16-15.08.54:278][ 96]LogMaterial: Display: Material /Engine/Transient.MM_Porte needed to have new flag set bUsedWithNanite !
+[2025.12.16-15.08.54:438][ 96]LogShaderCompilers: Current jobs: 22, Batch size: 4, Num Already Dispatched: 0
+[2025.12.16-15.08.54:448][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.08.54:448][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.08.54:448][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.08.54:448][ 96]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.08.54:448][ 96]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.54:476][ 96]LogShaderCompilers: Current jobs: 17, Batch size: 5, Num Already Dispatched: 22
+[2025.12.16-15.08.54:585][ 97]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.08.54:585][ 97]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.08.54:685][ 97]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.08.54:685][ 97]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Shader Count: 28
+[2025.12.16-15.08.54:795][ 97]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.55:980][197]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Nanite Compute Shader: 854 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Shader Count: 35
+[2025.12.16-15.08.55:981][197]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.08.56:897][238]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.08.56:998][238]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.08.58:087][330]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.08.58:087][330]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.08.58:188][330]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: ================================================
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Total job queries 1 169, among them cache hits 584 (49.96%), DDC hits 405 (34.64%), Duplicates 60 (5.13%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Tracking 525 distinct input hashes that result in 370 distinct outputs (70.48%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: RAM used: 4,52 MiB of 3,20 GiB budget. Usage: 0.14%
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Shaders Compiled: 124
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Jobs assigned 124, completed 124 (100%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Average time worker was idle: 1829.55 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.12 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Job execution time: average 3.05 s, max 9.38 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Job life time (pending + execution): average 3.09 s, max 9.38
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Shader code size: total 1,332 MiB, numShaders 126, average 10,825 KiB, min 3,266 KiB, max 25,93 KiB
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.23 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Jobs were issued in 91 batches (71 local, 20 distributed), average 1.36 jobs/batch (1.00 jobs/local batch. 2.65 jobs/distributed batch)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Average processing rate: 4.39 jobs/sec
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Total thread time: 107,413 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Total thread preprocess time: 14,365 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Percentage time preprocessing: 13.37%
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Effective parallelization: 3.81 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   14 times, average 2.42 sec, max 3.37 sec, min 1.48 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.41 sec, max 2.12 sec, min 0.70 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.28 sec, max 1.65 sec, min 0.92 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.18 sec, max 1.50 sec, min 0.94 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    4 times, average 1.08 sec, max 1.49 sec, min 0.88 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 31.51% of total time (compiled   14 times, average 2.42 sec, max 3.37 sec, min 1.48 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                               FHWRasterizePS - 26.38% of total time (compiled   30 times, average 0.94 sec, max 1.15 sec, min 0.65 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.66% of total time (compiled   12 times, average 0.69 sec, max 0.85 sec, min 0.60 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 4.10% of total time (compiled    7 times, average 0.63 sec, max 0.85 sec, min 0.49 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 4.03% of total time (compiled    4 times, average 1.08 sec, max 1.49 sec, min 0.88 sec)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: === Material stats ===
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Materials Translated:    275
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Material Translation Only: 0.04 s (37%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: Material Cache Hits: 19 (7%)
+[2025.12.16-15.09.10:554][731]LogShaderCompilers: Display: ================================================
+[2025.12.16-15.09.37:455][851]LogContentBrowser: Deferred new asset file creation: MM_Porte_Inst
+[2025.12.16-15.09.37:462][851]LogContentBrowser: Creating deferred item: MM_Porte_Inst
+[2025.12.16-15.09.37:470][852]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Porte_Inst).
+[2025.12.16-15.09.40:340][194]LogContentBrowser: Attempting asset rename: MM_Porte_Inst -> MI_Porte
+[2025.12.16-15.09.40:341][194]LogContentBrowser: End creating deferred item MM_Porte_Inst
+[2025.12.16-15.09.45:310][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.09.45:310][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MI/MI_Porte] ([1] browsable assets)...
+[2025.12.16-15.09.45:348][656]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MM/MI/MI_Porte.MI_Porte]
+[2025.12.16-15.09.45:348][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/MI_Porte]
+[2025.12.16-15.09.45:348][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MI/MI_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/MI_Porte.uasset" SILENT=true
+[2025.12.16-15.09.45:358][656]LogSavePackage: Moving output files for package: /Game/MM/MI/MI_Porte
+[2025.12.16-15.09.45:358][656]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_PorteD7BB70B14850004E28DC7285BB6BF5FB.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/MI_Porte.uasset'
+[2025.12.16-15.09.45:359][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.268 ms (total: 2.29 sec)
+[2025.12.16-15.09.45:391][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.16-15.09.45:405][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.16-15.09.45:417][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.12.16-15.09.45:438][656]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.16-15.09.45:438][656]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.09.45:438][656]LogContentValidation: Enabled validators:
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.09.45:438][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.09.45:438][656]AssetCheck: /Game/MM/MI/MI_Porte Validation de la ressource
+[2025.12.16-15.09.45:477][656]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.16-15.09.50:253][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.09.50:253][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MM/MI/Mi_Mur/MI_Porte] ([1] browsable assets)...
+[2025.12.16-15.09.50:253][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/Mi_Mur/MI_Porte]
+[2025.12.16-15.09.50:253][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MI/Mi_Mur/MI_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/Mi_Mur/MI_Porte.uasset" SILENT=true
+[2025.12.16-15.09.50:262][ 93]LogSavePackage: Moving output files for package: /Game/MM/MI/Mi_Mur/MI_Porte
+[2025.12.16-15.09.50:262][ 93]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_PorteF2C324FB4BAED4317F14AF8DCDF70DA1.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/Mi_Mur/MI_Porte.uasset'
+[2025.12.16-15.09.50:263][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.705 ms (total: 2.30 sec)
+[2025.12.16-15.09.50:297][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.16-15.09.50:309][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.16-15.09.50:321][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.12.16-15.09.50:340][ 93]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: Enabled validators:
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.09.50:340][ 93]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.09.50:340][ 93]AssetCheck: /Game/MM/MI/Mi_Mur/MI_Porte Validation de la ressource
+[2025.12.16-15.09.50:360][ 93]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.16-15.09.54:002][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.16-15.09.56:035][375]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.16-15.09.56:087][375]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MM/MI/Mi_Mur/MI_Porte_Modular.MI_Porte_Modular
+	Asset Type: MaterialInstanceConstant
+[2025.12.16-15.09.56:179][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.16-15.09.56:191][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.16-15.09.56:203][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.12.16-15.09.56:207][375]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-14.221 Y=-0.823 Z=17.094, BoxExtent=(X=27.745 Y=101.025 Z=106.068), SphereRadius=(211.040405)) and MeshDescription Bounds (Origin=X=-16.539 Y=0.201 Z=17.708, BoxExtent=(X=25.274 Y=100.000 Z=105.000), SphereRadius=(147.186210)) is significative for StaticMesh /Game/Meshes/Mur/Porte_Modular.Porte_Modular
+[2025.12.16-15.10.25:315][257]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.10.25:315][257]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.25:315][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.25:315][257]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.10.25:315][257]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.10.25:428][259]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.30:664][764]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.10.30:664][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.30:664][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.30:664][764]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.10.30:664][764]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.10.30:727][766]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.34:523][161]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.10.34:523][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.34:523][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.34:523][161]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.10.34:524][161]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.10.34:583][163]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.16-15.10.49:135][677]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.10.49:136][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.49:136][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.49:136][677]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.10.49:136][677]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: Shader Count: 7
+[2025.12.16-15.10.49:824][729]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Shader Count: 8
+[2025.12.16-15.10.49:922][736]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.10.54:071][143]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.10.54:186][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.16-15.10.59:082][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.16-15.10.59:141][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.10.59:200][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.10.59:261][143]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MM/MM_Porte.MM_Porte]
+[2025.12.16-15.10.59:261][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.10.59:261][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.10.59:273][143]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.10.59:273][143]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte4EB93AB2455205B3D12A2A8C7AD62A73.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.10.59:281][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.117 ms (total: 2.44 sec)
+[2025.12.16-15.10.59:332][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.10.59:332][143]LogContentValidation: Enabled validators:
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.10.59:332][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.10.59:332][143]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Nanite Compute Shader: 854 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Shader Count: 75
+[2025.12.16-15.10.59:341][143]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.10.59:482][146]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.10.59:482][146]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.16-15.10.59:581][146]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.10.59:581][146]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.16-15.10.59:608][146]LogPSOHitching: Encountered 50 PSO creation hitches so far (26 graphics, 24 compute). 0 of them were precached.
+[2025.12.16-15.11.10:808][163]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.10:808][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.10:808][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.10:808][163]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.11.10:808][163]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.11.10:854][166]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.13:190][405]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.11.13:302][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.16-15.11.13:480][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.12.16-15.11.13:491][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.11.13:531][405]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.11.13:582][405]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MM/MM_Porte.MM_Porte]
+[2025.12.16-15.11.13:582][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.11.13:582][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.11.13:591][405]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.11.13:591][405]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte3BCC9F76492302DF93755CBB06568993.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.11.13:600][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.896 ms (total: 2.54 sec)
+[2025.12.16-15.11.13:645][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.11.13:645][405]LogContentValidation: Enabled validators:
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.11.13:645][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.11.13:645][405]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Nanite Compute Shader: 854 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Shader Count: 75
+[2025.12.16-15.11.13:654][405]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.25:301][337]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_10 while ResolveName, will return /Engine/Transient.MM_Radar:MaterialGraph_0.MaterialGraphNode_10 but could also be: /Engine/Transient.MM_Porte:MaterialGraph_0.MaterialGraphNode_10
+[2025.12.16-15.11.25:301][337]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_10.MaterialExpressionScalarParameter_0'")'
+[2025.12.16-15.11.25:309][337]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.25:309][337]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.25:309][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.25:309][337]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.11.25:309][337]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.11.25:351][339]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.28:684][682]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.28:684][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.28:684][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.28:684][682]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.11.28:684][682]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Shader Count: 13
+[2025.12.16-15.11.28:752][685]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.32:028][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.32:028][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.32:028][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.32:028][ 29]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.11.32:028][ 29]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.32:723][ 83]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.32:723][ 83]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.16-15.11.32:723][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.32:723][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.32:724][ 83]MaterialEditorStats: Shader Count: 7
+[2025.12.16-15.11.32:724][ 83]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Base pass shader: 200 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Shader Count: 8
+[2025.12.16-15.11.32:827][ 91]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.16-15.11.37:951][605]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.37:951][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.37:951][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.37:951][605]MaterialEditorStats: Shader Count: 0
+[2025.12.16-15.11.37:951][605]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: Shader Count: 4
+[2025.12.16-15.11.37:974][607]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: Shader Count: 7
+[2025.12.16-15.11.38:318][633]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Shader Count: 8
+[2025.12.16-15.11.38:416][641]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-15.11.39:800][770]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.11.39:906][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.16-15.11.44:695][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.16-15.11.44:782][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.11.44:834][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.11.44:897][770]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MM/MM_Porte.MM_Porte]
+[2025.12.16-15.11.44:897][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.11.44:897][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.11.44:907][770]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.11.44:907][770]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte2389E82943CED0376F8423BAFF7AAF87.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.11.44:916][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.138 ms (total: 2.68 sec)
+[2025.12.16-15.11.44:966][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.11.44:966][770]LogContentValidation: Enabled validators:
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.11.44:966][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.11.44:966][770]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.11.44:975][770]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.44:975][770]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-15.11.44:975][770]MaterialEditorStats: Nanite Compute Shader: 856 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-15.11.44:976][770]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-15.11.44:976][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-15.11.44:976][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-15.11.44:976][770]MaterialEditorStats: Shader Count: 75
+[2025.12.16-15.11.44:976][770]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-15.12.10:161][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.16-15.12.10:177][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Enviro_Auto9
+[2025.12.16-15.12.10:177][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_Enviro_Auto936EBB56F4EE9B3B1261DE489E0AE62EB.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/3D_Enviro_Auto9.umap'
+[2025.12.16-15.12.10:178][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.031
+[2025.12.16-15.12.10:178][882]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.12.16-15.12.10:178][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Mur/Porte_Modular] ([1] browsable assets)...
+[2025.12.16-15.12.10:189][882]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Mur/Porte_Modular.Porte_Modular]
+[2025.12.16-15.12.10:189][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Mur/Porte_Modular]
+[2025.12.16-15.12.10:201][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Mur/Porte_Modular_Auto9
+[2025.12.16-15.12.10:201][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Auto979CA3C394D9542B2F8C271B4AF96E7AE.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Meshes/Mur/Porte_Modular_Auto9.uasset'
+[2025.12.16-15.12.10:202][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor] ([1] browsable assets)...
+[2025.12.16-15.12.10:204][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.Porte_Modular_Material_BaseColor]
+[2025.12.16-15.12.10:204][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor]
+[2025.12.16-15.12.10:220][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto9
+[2025.12.16-15.12.10:220][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_BaseColor451AF4F945512A0C7E63AC914E17F979.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor_Auto9.uasset'
+[2025.12.16-15.12.10:221][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive] ([1] browsable assets)...
+[2025.12.16-15.12.10:223][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive.Porte_Modular_Material_Emissive]
+[2025.12.16-15.12.10:223][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive]
+[2025.12.16-15.12.10:239][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto9
+[2025.12.16-15.12.10:239][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Emissive_B9CADCB041A48851E93E57A898C7A2AD.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive_Auto9.uasset'
+[2025.12.16-15.12.10:240][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal] ([1] browsable assets)...
+[2025.12.16-15.12.10:242][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal.Porte_Modular_Material_Normal]
+[2025.12.16-15.12.10:242][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal]
+[2025.12.16-15.12.10:258][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto9
+[2025.12.16-15.12.10:258][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Normal_AuCB3CB5C44BE2D1016D7DA493528D40FA.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal_Auto9.uasset'
+[2025.12.16-15.12.10:259][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-15.12.10:260][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-15.12.10:260][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-15.12.10:276][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto9
+[2025.12.16-15.12.10:276][882]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Occlusion790D1BCB48629B0A956241AD937111FE.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.12.16-15.12.10:277][882]LogFileHelpers: Auto-saving content packages took 0.100
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: ================================================
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Total job queries 1 609, among them cache hits 880 (54.69%), DDC hits 406 (25.23%), Duplicates 66 (4.10%)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Tracking 663 distinct input hashes that result in 453 distinct outputs (68.33%)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: RAM used: 5,23 MiB of 3,20 GiB budget. Usage: 0.16%
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Shaders Compiled: 261
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Jobs assigned 261, completed 261 (100%)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Average time worker was idle: 590.81 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Time job spent in pending queue: average 0.70 s, longest 3.82 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 9.38 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Job life time (pending + execution): average 2.75 s, max 9.38
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Shader code size: total 2,662 MiB, numShaders 269, average 10,136 KiB, min 3,266 KiB, max 25,98 KiB
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.37 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Jobs were issued in 228 batches (208 local, 20 distributed), average 1.14 jobs/batch (1.00 jobs/local batch. 2.65 jobs/distributed batch)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Average processing rate: 6.31 jobs/sec
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Total thread time: 248,149 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Total thread preprocess time: 20,21 s
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Percentage time preprocessing: 8.14%
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Effective parallelization: 6.00 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   34 times, average 2.48 sec, max 3.37 sec, min 1.48 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    6 times, average 1.47 sec, max 2.12 sec, min 0.70 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.40 sec, max 1.79 sec, min 0.94 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    6 times, average 1.30 sec, max 1.76 sec, min 0.88 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.28 sec, max 1.84 sec, min 0.92 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 34.01% of total time (compiled   34 times, average 2.48 sec, max 3.37 sec, min 1.48 sec)
+[2025.12.16-15.12.10:562][906]LogShaderCompilers: Display:                                               FHWRasterizePS - 32.21% of total time (compiled   90 times, average 0.89 sec, max 1.15 sec, min 0.65 sec)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.61% of total time (compiled    7 times, average 1.28 sec, max 1.84 sec, min 0.92 sec)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 3.55% of total time (compiled    6 times, average 1.47 sec, max 2.12 sec, min 0.70 sec)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.32% of total time (compiled   12 times, average 0.69 sec, max 0.85 sec, min 0.60 sec)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: === Material stats ===
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Materials Translated:    296
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Material Translation Only: 0.05 s (38%)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: Material Cache Hits: 19 (6%)
+[2025.12.16-15.12.10:563][906]LogShaderCompilers: Display: ================================================
+[2025.12.16-15.12.11:686][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19650.242188
+[2025.12.16-15.12.11:823][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.12.11:823][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19650.367188, Update Interval: 306.971039
+[2025.12.16-15.13.37:587][852]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-15.13.37:590][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-15.13.37:629][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-15.13.37:629][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-15.13.37:629][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-15.13.37:639][852]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-15.13.37:639][852]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte35C87FBB4B7CE9528D3A63961E9E7809.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-15.13.37:647][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.642 ms (total: 2.74 sec)
+[2025.12.16-15.13.37:678][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-15.13.37:678][852]LogContentValidation: Enabled validators:
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-15.13.37:678][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-15.13.37:679][852]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-15.13.39:596][979]LogSlate: Window 'Porte_Modular_Material_BaseColor' being destroyed
+[2025.12.16-15.13.39:603][979]LogSlate: Window 'Porte_Modular_Material_BaseColor' being destroyed
+[2025.12.16-15.13.39:618][979]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-15.13.39:618][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-15.13.39:645][979]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-15.13.39:645][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-15.13.39:689][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.16-15.13.45:273][523]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MM/MI/Mi_Mur/MI_Porte.MI_Porte
+[2025.12.16-15.13.45:274][523]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.16-15.14.29:885][ 12]LogSlate: Window 'MI_Porte' being destroyed
+[2025.12.16-15.14.29:892][ 12]LogSlate: Window 'MI_Porte' being destroyed
+[2025.12.16-15.14.29:923][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.16-15.14.29:996][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.16-15.14.30:014][ 12]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-15.14.30:015][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-15.14.30:034][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.16-15.18.07:765][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19995.787109
+[2025.12.16-15.18.07:873][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.18.07:873][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19995.882812, Update Interval: 304.901886
+[2025.12.16-15.22.10:553][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.16-15.22.10:555][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.018
+[2025.12.16-15.22.10:555][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MI/Mi_Mur/MI_Porte] ([1] browsable assets)...
+[2025.12.16-15.22.10:617][686]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MM/MI/Mi_Mur/MI_Porte.MI_Porte]
+[2025.12.16-15.22.10:617][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/Mi_Mur/MI_Porte]
+[2025.12.16-15.22.10:628][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MM/MI/Mi_Mur/MI_Porte_Auto0
+[2025.12.16-15.22.10:628][686]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_Porte_Auto0663EBD8845E37FFB4E65B8ADEEF6B230.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/MM/MI/Mi_Mur/MI_Porte_Auto0.uasset'
+[2025.12.16-15.22.10:629][686]LogFileHelpers: Auto-saving content packages took 0.073
+[2025.12.16-15.23.54:472][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20325.333984
+[2025.12.16-15.23.54:588][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.23.54:588][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20325.437500, Update Interval: 357.683655
+[2025.12.16-15.30.49:286][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20718.820312
+[2025.12.16-15.30.49:394][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.30.49:394][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20718.914062, Update Interval: 324.353760
+[2025.12.16-15.36.47:477][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21057.851562
+[2025.12.16-15.36.47:611][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.36.47:611][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21057.968750, Update Interval: 330.011902
+[2025.12.16-15.42.57:561][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21408.339844
+[2025.12.16-15.42.57:694][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.42.57:694][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21408.458984, Update Interval: 319.265106
+[2025.12.16-15.46.49:033][ 83]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-15.49.13:715][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21767.966797
+[2025.12.16-15.49.13:832][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.49.13:832][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21768.070312, Update Interval: 337.144073
+[2025.12.16-15.55.45:745][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22139.548828
+[2025.12.16-15.55.45:862][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-15.55.45:862][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22139.652344, Update Interval: 355.878174
+[2025.12.16-16.02.34:743][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22542.478516
+[2025.12.16-16.02.35:747][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.02.35:747][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22543.140625, Update Interval: 323.264252
+[2025.12.16-16.08.47:803][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22915.562500
+[2025.12.16-16.08.48:801][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.08.48:801][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22916.230469, Update Interval: 304.096191
+[2025.12.16-16.14.40:089][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23267.074219
+[2025.12.16-16.14.40:230][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.14.40:230][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23267.203125, Update Interval: 307.752930
+[2025.12.16-16.20.39:025][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23608.503906
+[2025.12.16-16.20.39:150][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.20.39:150][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23608.615234, Update Interval: 310.267029
+[2025.12.16-16.26.30:089][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23941.462891
+[2025.12.16-16.26.30:198][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.26.30:198][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23941.556641, Update Interval: 335.122528
+[2025.12.16-16.32.55:286][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24305.529297
+[2025.12.16-16.32.55:419][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.32.55:419][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24305.648438, Update Interval: 301.624207
+[2025.12.16-16.38.37:747][797]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MM/MI/Mi_Mur/MI_Porte.MI_Porte
+[2025.12.16-16.38.37:749][797]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.12.16-16.38.40:396][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24633.105469
+[2025.12.16-16.38.40:517][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-16.38.40:517][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24633.214844, Update Interval: 350.073547
+[2025.12.16-16.38.44:963][463]Cmd: TRANSACTION UNDO
+[2025.12.16-16.38.44:963][463]LogEditorTransaction: Undo Modifier Opacity
+[2025.12.16-16.38.52:469][206]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MM/MM_Porte.MM_Porte
+[2025.12.16-16.38.52:472][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.12.16-16.38.52:827][206]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.16-16.38.52:827][206]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-16.38.52:827][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-16.38.52:827][206]MaterialEditorStats: Shader Count: 0
+[2025.12.16-16.38.52:827][206]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Shader Count: 13
+[2025.12.16-16.38.52:942][208]MaterialEditorStats: Preshaders: 4  (4 param fetches, 6 ops)
+[2025.12.16-16.40.23:470][781]LogMaterialEditor: Saving and Compiling material MM_Porte
+[2025.12.16-16.40.23:472][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-16.40.23:502][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MM/MM_Porte] ([1] browsable assets)...
+[2025.12.16-16.40.23:502][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_Porte]
+[2025.12.16-16.40.23:502][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset" SILENT=true
+[2025.12.16-16.40.23:514][781]LogSavePackage: Moving output files for package: /Game/MM/MM_Porte
+[2025.12.16-16.40.23:514][781]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MM_Porte24F04C304C55373E1554D394DE87A00F.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MM_Porte.uasset'
+[2025.12.16-16.40.23:522][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.947 ms (total: 2.79 sec)
+[2025.12.16-16.40.23:595][781]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-16.40.23:595][781]LogContentValidation: Enabled validators:
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-16.40.23:595][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-16.40.23:595][781]AssetCheck: /Game/MM/MM_Porte Validation de la ressource
+[2025.12.16-16.40.25:952][  1]LogSlate: Window 'MM_Porte' being destroyed
+[2025.12.16-16.40.25:959][  1]LogSlate: Window 'MM_Porte' being destroyed
+[2025.12.16-16.40.26:005][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.16-16.40.26:076][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.16-16.40.26:094][  1]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-16.40.26:094][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-16.40.26:112][  1]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-16.40.26:112][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-16.40.26:137][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.16-16.40.27:991][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.16-16.40.29:346][211]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2025.12.16-16.40.29:373][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-16.40.29:429][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.16-16.40.29:452][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.12.16-16.40.29:466][211]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2025.12.16-16.40.29:467][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_Enviro1D8690CE4CCF0BA6C75B8EBD762D9A56.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2025.12.16-16.40.29:473][211]LogFileHelpers: Saving map '3D_Enviro' took 0.045
+[2025.12.16-16.40.29:473][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MM/MI/Mi_Mur/MI_Porte] ([1] browsable assets)...
+[2025.12.16-16.40.29:506][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MM/MI/Mi_Mur/MI_Porte.MI_Porte]
+[2025.12.16-16.40.29:506][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MI/Mi_Mur/MI_Porte]
+[2025.12.16-16.40.29:506][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MI/Mi_Mur/MI_Porte" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/Mi_Mur/MI_Porte.uasset" SILENT=true
+[2025.12.16-16.40.29:515][211]LogSavePackage: Moving output files for package: /Game/MM/MI/Mi_Mur/MI_Porte
+[2025.12.16-16.40.29:516][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/MI_Porte374E2A1F46B197F2552AF1A0D649EFBF.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/MM/MI/Mi_Mur/MI_Porte.uasset'
+[2025.12.16-16.40.29:517][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor] ([1] browsable assets)...
+[2025.12.16-16.40.29:517][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor]
+[2025.12.16-16.40.29:547][211]LogSavePackage: Moving output files for package: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor
+[2025.12.16-16.40.29:547][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G2E7F7F52402AB7EDFCEF5BB22F7E8605.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor.uasset'
+[2025.12.16-16.40.29:548][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive] ([1] browsable assets)...
+[2025.12.16-16.40.29:548][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive]
+[2025.12.16-16.40.29:570][211]LogSavePackage: Moving output files for package: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive
+[2025.12.16-16.40.29:570][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G7DFA71E84AA26CCB35F9749D1ECC5C1E.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive.uasset'
+[2025.12.16-16.40.29:571][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal] ([1] browsable assets)...
+[2025.12.16-16.40.29:571][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal]
+[2025.12.16-16.40.29:610][211]LogSavePackage: Moving output files for package: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal
+[2025.12.16-16.40.29:610][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_GA5AC7C5E483D84DF5200359373AE38F7.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal.uasset'
+[2025.12.16-16.40.29:611][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-16.40.29:611][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic]
+[2025.12.16-16.40.29:641][211]LogSavePackage: Moving output files for package: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic
+[2025.12.16-16.40.29:642][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Nico__1__TT_checker_512x512_UV_G97DE502848DAFE806C2071B8D9A5D637.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic.uasset'
+[2025.12.16-16.40.29:642][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/Mur/Porte_Modular] ([1] browsable assets)...
+[2025.12.16-16.40.29:642][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Mur/Porte_Modular]
+[2025.12.16-16.40.29:642][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Mur/Porte_Modular" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Mur/Porte_Modular.uasset" SILENT=true
+[2025.12.16-16.40.29:653][211]LogSavePackage: Moving output files for package: /Game/Meshes/Mur/Porte_Modular
+[2025.12.16-16.40.29:654][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular5F53F5D54C9C6A1CE5444C8DDE5DFCD3.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Mur/Porte_Modular.uasset'
+[2025.12.16-16.40.29:655][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor] ([1] browsable assets)...
+[2025.12.16-16.40.29:655][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor]
+[2025.12.16-16.40.29:685][211]LogSavePackage: Moving output files for package: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor
+[2025.12.16-16.40.29:685][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_BaseColor73981CB348E4E1FC5CB89FA485A358F6.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor.uasset'
+[2025.12.16-16.40.29:686][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive] ([1] browsable assets)...
+[2025.12.16-16.40.29:686][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive]
+[2025.12.16-16.40.29:707][211]LogSavePackage: Moving output files for package: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive
+[2025.12.16-16.40.29:707][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_EmissiveACC361F8493293F60C4B67830AA263FE.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive.uasset'
+[2025.12.16-16.40.29:708][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal] ([1] browsable assets)...
+[2025.12.16-16.40.29:708][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal]
+[2025.12.16-16.40.29:749][211]LogSavePackage: Moving output files for package: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal
+[2025.12.16-16.40.29:749][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_Normal0A45857C424AC36AE127C2A72DD7DBD5.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal.uasset'
+[2025.12.16-16.40.29:751][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.16-16.40.29:751][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic]
+[2025.12.16-16.40.29:775][211]LogSavePackage: Moving output files for package: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic
+[2025.12.16-16.40.29:775][211]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Porte_Modular_Material_OcclusionC042AFC0499E38089E37E59AF246B49C.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic.uasset'
+[2025.12.16-16.40.29:785][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 412.000 ms (total: 3.20 sec)
+[2025.12.16-16.40.29:806][211]LogStall: Shutdown...
+[2025.12.16-16.40.29:806][211]LogStall: Shutdown complete.
+[2025.12.16-16.40.29:827][211]LogSlate: Window 'Projet3D_Enviro - Unreal Editor' being destroyed
+[2025.12.16-16.40.29:992][211]LogContentValidation: Display: Starting to validate 11 assets
+[2025.12.16-16.40.29:992][211]LogContentValidation: Enabled validators:
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-16.40.29:992][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-16.40.29:992][211]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/MM/MI/Mi_Mur/MI_Porte Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_BaseColor Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Emissive Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_Normal Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Reacteur/Nico__1__TT_checker_512x512_UV_GRID_OcclusionRoughnessMetallic Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Meshes/Mur/Porte_Modular Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_BaseColor Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Emissive Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_Normal Validation de la ressource
+[2025.12.16-16.40.29:993][211]AssetCheck: /Game/Textures/Mur/Porte_Modular/Porte_Modular_Material_OcclusionRoughnessMetallic Validation de la ressource
+[2025.12.16-16.40.29:994][211]Cmd: QUIT_EDITOR
+[2025.12.16-16.40.29:994][211]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.16-16.40.29:995][211]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.16-16.40.29:999][212]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.16-16.40.29:999][212]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.16-16.40.29:999][212]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.16-16.40.30:000][212]LogWorld: UWorld::CleanupWorld for 3D_Enviro, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-16.40.30:000][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-16.40.30:005][212]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.16-16.40.30:005][212]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.16-16.40.30:006][212]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.16-16.40.30:016][212]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-16.40.30:016][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-16.40.30:016][212]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-16.40.30:016][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-16.40.30:016][212]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.16-16.40.30:016][212]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.16-16.40.30:026][212]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.16-16.40.30:027][212]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.16-16.40.30:027][212]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.16-16.40.30:027][212]LogAudio: Display: Audio Device unregistered from world '3D_Enviro'.
+[2025.12.16-16.40.30:027][212]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.16-16.40.30:027][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.16-16.40.30:029][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.16-16.40.30:037][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.16-16.40.30:037][212]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.16-16.40.30:038][212]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.12.16-16.40.30:040][212]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.16-16.40.30:041][212]LogExit: Preparing to exit.
+[2025.12.16-16.40.30:082][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.16-16.40.31:045][212]LogEditorDataStorage: Deinitializing
+[2025.12.16-16.40.31:111][212]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.16-16.40.31:121][212]LogExit: Editor shut down
+[2025.12.16-16.40.31:123][212]LogExit: Transaction tracking system shut down
+[2025.12.16-16.40.31:208][212]LogExit: Object subsystem successfully closed.
+[2025.12.16-16.40.31:223][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.16-16.40.31:250][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.16-16.40.31:325][212]LogMemoryProfiler: Shutdown
+[2025.12.16-16.40.31:325][212]LogNetworkingProfiler: Shutdown
+[2025.12.16-16.40.31:325][212]LoadingProfiler: Shutdown
+[2025.12.16-16.40.31:325][212]LogTimingProfiler: Shutdown
+[2025.12.16-16.40.31:327][212]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.16-16.40.31:327][212]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.16-16.40.31:580][212]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.16-16.40.31:580][212]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.16-16.40.31:583][212]RenderDocPlugin: plugin has been unloaded.
+[2025.12.16-16.40.32:125][212]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.16-16.40.32:142][212]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.16-16.40.32:142][212]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE661C857-412A-92DF-D567-17B760BBB88B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7e30dd5246b55b4dd3c801bf612a3d9b%7Ce513995018d14453bd3a8d23dae04399%7C8f9e7aa3-485e-4c9d-8c32-6181d0ed527c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.16-16.40.32:144][212]LogXGEController: Cleaning working directory: C:/Users/n_latinaud/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.16-16.40.32:147][212]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.16-16.40.32:147][212]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.16-16.40.32:147][212]LogPakFile: Destroying PakPlatformFile
+[2025.12.16-16.40.32:926][212]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.16-16.40.32:970][212]LogExit: Exiting.
+[2025.12.16-16.40.32:983][212]Log file closed, 12/16/25 17:40:32
