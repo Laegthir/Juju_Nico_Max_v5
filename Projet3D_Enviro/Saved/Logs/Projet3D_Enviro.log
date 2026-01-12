@@ -2574,3 +2574,115 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.12-09.53.57:565][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.12-09.53.57:565][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7248.464355, Update Interval: 316.309692
 [2026.01.12-09.54.55:184][210]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.12-09.55.37:926][415]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Objets_Singuliers/Container.Container
+[2026.01.12-09.55.37:994][415]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.12-09.55.38:065][415]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.12-09.55.44:784][ 66]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.573 Y=4.316 Z=-2.007, BoxExtent=(X=181.229 Y=117.099 Z=120.883), SphereRadius=(292.682373)) and MeshDescription Bounds (Origin=X=0.664 Y=0.085 Z=-2.793, BoxExtent=(X=175.528 Y=112.867 Z=112.868), SphereRadius=(209.140800)) is significative for StaticMesh /Game/Meshes/Objets_Singuliers/Container.Container
+[2026.01.12-09.55.46:844][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-09.55.46:903][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Objets_Singuliers/Container] ([1] browsable assets)...
+[2026.01.12-09.55.46:931][254]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Objets_Singuliers/Container.Container]
+[2026.01.12-09.55.46:932][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Objets_Singuliers/Container]
+[2026.01.12-09.55.46:944][254]LogSavePackage: Moving output files for package: /Game/Meshes/Objets_Singuliers/Container
+[2026.01.12-09.55.46:944][254]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/ContainerB2529CA6415E993AF922948C12930075.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/Meshes/Objets_Singuliers/Container.uasset'
+[2026.01.12-09.55.46:951][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.810 ms (total: 2.71 sec)
+[2026.01.12-09.55.47:000][254]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-09.55.47:000][254]LogContentValidation: Enabled validators:
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-09.55.47:000][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-09.55.47:000][254]AssetCheck: /Game/Meshes/Objets_Singuliers/Container Validation de la ressource
+[2026.01.12-09.55.47:015][254]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.12-09.55.47:792][341]LogSlate: Window 'Container' being destroyed
+[2026.01.12-09.55.47:800][341]LogSlate: Window 'Container' being destroyed
+[2026.01.12-09.55.47:841][341]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.12-09.55.47:841][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.12-09.55.47:873][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.12-09.55.49:809][541]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-09.55.49:809][541]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-09.55.49:809][541]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-09.55.49:809][541]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-09.57.26:716][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.12-09.57.26:719][ 61]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D_Enviro' took 0.017
+[2026.01.12-09.57.26:719][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_BaseColor] ([1] browsable assets)...
+[2026.01.12-09.57.26:719][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_BaseColor]
+[2026.01.12-09.57.26:734][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_BaseColor_Auto7
+[2026.01.12-09.57.26:736][ 61]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Container_TT_checker_512x512_UV_12F393F040890039FE75B98DBB688A0F.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_BaseColor_Auto7.uasset'
+[2026.01.12-09.57.26:736][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_Normal] ([1] browsable assets)...
+[2026.01.12-09.57.26:736][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_Normal]
+[2026.01.12-09.57.26:752][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_Normal_Auto7
+[2026.01.12-09.57.26:752][ 61]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Container_TT_checker_512x512_UV_FFDC27A74AEC096326E1078331DF5CF3.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/Autosaves/Game/Textures/Container/Container_TT_checker_512x512_UV_GRID_Normal_Auto7.uasset'
+[2026.01.12-09.57.26:752][ 61]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.01.12-10.00.01:014][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7612.233887
+[2026.01.12-10.00.02:012][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.00.02:012][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7612.900391, Update Interval: 317.153839
+[2026.01.12-10.05.56:402][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7967.623535
+[2026.01.12-10.05.57:404][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.05.57:404][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7968.291016, Update Interval: 342.728973
+[2026.01.12-10.12.21:463][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8352.662109
+[2026.01.12-10.12.22:463][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.12.22:463][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8353.329102, Update Interval: 330.856049
+[2026.01.12-10.18.41:506][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8732.685547
+[2026.01.12-10.18.42:506][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.18.42:506][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8733.352539, Update Interval: 351.201508
+[2026.01.12-10.25.17:439][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9128.621094
+[2026.01.12-10.25.18:441][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.25.18:441][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9129.287109, Update Interval: 348.925446
+[2026.01.12-10.31.38:168][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9509.334961
+[2026.01.12-10.31.39:172][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.31.39:172][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9510.005859, Update Interval: 309.417389
+[2026.01.12-10.37.40:229][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9871.395508
+[2026.01.12-10.37.41:230][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.37.41:230][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9872.061523, Update Interval: 346.189758
+[2026.01.12-10.44.00:949][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10252.116211
+[2026.01.12-10.44.01:947][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.44.01:947][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10252.784180, Update Interval: 341.273224
+[2026.01.12-10.50.28:994][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10640.174805
+[2026.01.12-10.50.29:993][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.50.29:993][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10640.839844, Update Interval: 331.731323
+[2026.01.12-10.54.55:199][404]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.12-10.56.51:740][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11022.921875
+[2026.01.12-10.56.52:739][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-10.56.52:739][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11023.587891, Update Interval: 354.918671
+[2026.01.12-11.03.27:462][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11418.640625
+[2026.01.12-11.03.28:463][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.03.28:463][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11419.309570, Update Interval: 316.382935
+[2026.01.12-11.09.26:507][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11777.701172
+[2026.01.12-11.09.27:505][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.09.27:505][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11778.369141, Update Interval: 305.147247
+[2026.01.12-11.15.14:896][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12126.103516
+[2026.01.12-11.15.15:898][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.15.15:898][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12126.770508, Update Interval: 349.231232
+[2026.01.12-11.21.59:630][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12530.841797
+[2026.01.12-11.22.00:630][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.22.00:630][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12531.505859, Update Interval: 357.007965
+[2026.01.12-11.28.31:701][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12922.902344
+[2026.01.12-11.28.32:702][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.28.32:702][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12923.566406, Update Interval: 325.025787
+[2026.01.12-11.34.39:440][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13290.640625
+[2026.01.12-11.34.40:440][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.34.40:440][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13291.305664, Update Interval: 307.474579
+[2026.01.12-11.40.42:496][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13653.694336
+[2026.01.12-11.40.43:497][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.40.43:497][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13654.360352, Update Interval: 314.374207
+[2026.01.12-11.46.39:898][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14011.096680
+[2026.01.12-11.46.40:893][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.46.40:894][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14011.760742, Update Interval: 352.111572
+[2026.01.12-11.53.09:298][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14400.501953
+[2026.01.12-11.53.10:300][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.53.10:300][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14401.166992, Update Interval: 338.559509
+[2026.01.12-11.54.55:215][202]LogDerivedDataCache: C:/Users/n_latinaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.12-11.59.44:020][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14795.201172
+[2026.01.12-11.59.45:020][ 71]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-11.59.45:020][ 71]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14795.868164, Update Interval: 333.545959
+[2026.01.12-12.06.17:743][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15188.908203
+[2026.01.12-12.06.18:746][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-12.06.18:746][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15189.578125, Update Interval: 340.899689
+[2026.01.12-12.12.30:139][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15561.303711
+[2026.01.12-12.12.31:145][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-12.12.31:145][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15561.972656, Update Interval: 338.667572
+[2026.01.12-12.18.45:868][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15937.041016
+[2026.01.12-12.18.46:868][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-12.18.46:868][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15937.706055, Update Interval: 356.506226
