@@ -1536,3 +1536,110 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.12-15.38.17:119][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.12-15.38.17:119][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.12-15.38.17:120][232]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2026.01.12-15.38.32:869][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11517.814453
+[2026.01.12-15.38.33:876][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-15.38.33:876][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11518.481445, Update Interval: 306.864838
+[2026.01.12-15.39.31:767][497]Cmd: DUPLICATE
+[2026.01.12-15.39.31:767][497]Cmd: ACTOR DUPLICATE
+[2026.01.12-15.40.40:693][304]Cmd: TRANSACTION UNDO
+[2026.01.12-15.40.40:693][304]LogEditorTransaction: Undo Déplacer les éléments
+[2026.01.12-15.40.42:248][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-15.40.42:311][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.12-15.40.42:333][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.12-15.40.42:362][434]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2026.01.12-15.40.42:363][434]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_Enviro77D1433C4FB13F6C85F35DB6D2E1847A.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2026.01.12-15.40.42:370][434]LogFileHelpers: Saving map '3D_Enviro' took 0.059
+[2026.01.12-15.40.42:382][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.856 ms (total: 263.486 ms)
+[2026.01.12-15.40.42:425][434]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-15.40.42:425][434]LogContentValidation: Enabled validators:
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-15.40.42:425][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-15.40.42:425][434]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2026.01.12-15.40.44:077][628]Cmd: DUPLICATE
+[2026.01.12-15.40.44:077][628]Cmd: ACTOR DUPLICATE
+[2026.01.12-15.40.48:642][164]Cmd: DUPLICATE
+[2026.01.12-15.40.48:643][164]Cmd: ACTOR DUPLICATE
+[2026.01.12-15.40.56:049][963]Cmd: DUPLICATE
+[2026.01.12-15.40.56:049][963]Cmd: ACTOR DUPLICATE
+[2026.01.12-15.41.06:632][174]Cmd: DUPLICATE
+[2026.01.12-15.41.06:632][174]Cmd: ACTOR DUPLICATE
+[2026.01.12-15.41.17:402][382]Cmd: DELETE
+[2026.01.12-15.41.17:402][382]Cmd: ACTOR DELETE
+[2026.01.12-15.41.17:404][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.12-15.41.17:417][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.12-15.41.17:420][382]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.01.12-15.41.23:910][156]Cmd: TRANSACTION UNDO
+[2026.01.12-15.41.23:910][156]LogEditorTransaction: Undo Supprimer des éléments
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:947][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:948][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:948][156]LogStaticMesh: Warning: Invalid material [MI_Fenetre_Inst] used on Nanite static mesh [Porte_Modular_01]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:948][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.23:948][156]LogStaticMesh: Warning: Invalid material [MI_Mur_Fenêtré_Opacity] used on Nanite static mesh [Mur_Fenêtré]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.01.12-15.41.30:233][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-15.41.30:271][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.12-15.41.30:294][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.12-15.41.30:325][791]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2026.01.12-15.41.30:325][791]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_Enviro5E7E54BA404DEF4B6725FE8FA8A917FA.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2026.01.12-15.41.30:331][791]LogFileHelpers: Saving map '3D_Enviro' took 0.061
+[2026.01.12-15.41.30:344][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.288 ms (total: 374.775 ms)
+[2026.01.12-15.41.30:408][791]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-15.41.30:408][791]LogContentValidation: Enabled validators:
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-15.41.30:408][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-15.41.30:408][791]AssetCheck: /Game/3D_Enviro Validation de la ressource
+[2026.01.12-15.44.32:069][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11877.483398
+[2026.01.12-15.44.32:202][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-15.44.32:202][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11877.609375, Update Interval: 316.650299
+[2026.01.12-15.46.18:924][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-15.46.18:980][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Enviro" FILE="../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.12-15.46.19:005][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.01.12-15.46.19:035][333]LogSavePackage: Moving output files for package: /Game/3D_Enviro
+[2026.01.12-15.46.19:036][333]LogSavePackage: Moving '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Saved/3D_EnviroA4B99B1C4C176A90949AAEB49CA0EDB5.tmp' to '../../../../../../Users/n_latinaud/Documents/GitHub/Juju_Nico_Max/Projet3D_Enviro/Content/3D_Enviro.umap'
+[2026.01.12-15.46.19:042][333]LogFileHelpers: Saving map '3D_Enviro' took 0.062
+[2026.01.12-15.46.19:049][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.652 ms (total: 499.428 ms)
+[2026.01.12-15.46.19:090][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-15.46.19:090][333]LogContentValidation: Enabled validators:
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-15.46.19:090][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-15.46.19:090][333]AssetCheck: /Game/3D_Enviro Validation de la ressource
